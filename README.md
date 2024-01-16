@@ -1,4 +1,4 @@
-![instacart-logo-wordmark-500x200-e4f3c6f](https://github.com/mflahan/Python_Instacart/assets/156682747/59013ba2-7caa-4b24-88bd-0cf75d3040b3)
+![instacart_logo.png](https://github.com/mflahan/Python_Instacart/assets/156682747/59013ba2-7caa-4b24-88bd-0cf75d3040b3)
 
 # Python_Instacart
 Demonstration of Python code to answer business questions for Instacart
@@ -17,4 +17,5 @@ This project includes an exploratory analysis of some of Instacart's data in ord
 - What different classifications does the demographic information suggest?
 - Are there differences in ordering habits of different customer profiles?
 ## Data
-
+Utilized open source dataset from Instacart from 2017: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017
+Customer data fabricated for purpse of this project so that no personal identifiable data is included.
